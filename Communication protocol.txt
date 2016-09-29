@@ -1,0 +1,20 @@
+
+Kommando från klienten
+
+Edit:  0 #filnamn# \n  -->  #svarskod# #filens innehåll med $ istället för newline#  -->  #filens innehåll med $ istället för newline#  -->  #svarskod#
+Read:   1 #filnamn# \n  -->  #svarskod# #filens innehåll med $ istället för newline#
+Delete: 2 #filnamn# \n  -->  #svarskod#
+Create: 3 #filnamn#$#filens innehåll med $ istället för newline#\n  -->  #svarskod#
+List:   4  -->  #svarskod# #längd på lista# #lista där varje element är separerat med ny rad#
+
+Svarskoder:
+0 - Ja/ok/godkänd
+1 - Nej/nekad
+2 - Filen finns ej
+3 - Filen kan ej skapas
+
+Patient: Patient 2 (12345678-2222)
+Doctor: Doctor 1 (12345678-1234)
+Nurse: Nurse 1 (12345678-2345)
+Division: Division1
+Data: This person is also alergic to foo bars. Keep them away from them!

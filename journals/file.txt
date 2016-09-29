@@ -1,0 +1,13 @@
+Patient: group 3
+Doctor: Doctor 1 (12345678-1234)
+Nurse: nurse
+Division: div
+Data: This patient has been studying too much Computer Security and is now suffering from severe brain damage from overstudying. Would be good if the patient could receive top grade in the course without having to do the exam, it surely would help against further brain damage.
+ 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,6 @@
+2016-2-7 14:25:57 Client "Doctor 1 (12345678-1234)" successfully connected
+2016-2-7 14:25:59 Client "Doctor 1 (12345678-1234)" read file "file 1"  - failed
+2016-2-7 14:26:3 Client "Doctor 1 (12345678-1234)" read file "file1.txt"  - failed
+2016-2-7 14:26:10 Client "Doctor 1 (12345678-1234)" read file "1.txt"  - failed
+2016-2-7 14:29:10 Client "Doctor 1 (12345678-1234)" successfully connected
+2016-2-7 14:29:16 Client "Doctor 1 (12345678-1234)" wrote to file "file.txt"  - success
